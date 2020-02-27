@@ -9,10 +9,10 @@
     <relativePath />
   </parent>
 
-  <name>Discord Notifier</name>
+  <name>Discord Notifier (fork by StrongSquirrel)</name>
   <description>Discord Notifier allows you to send Discord embeds about your builds via Discord's webhooks.
   </description>
-  <url>https://github.com/jenkinsci/discord-notifier-plugin/blob/master/README.md</url>
+  <url>https://github.com/StrongSquirrel/discord-notifier-plugin/blob/master/README.md</url>
 
   <groupId>nz.co.jammehcow</groupId>
   <artifactId>discord-notifier</artifactId>
@@ -25,9 +25,9 @@
   </properties>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/discord-notifier-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/discord-notifier-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/discord-notifier-plugin</url>
+    <connection>scm:git:git://github.com/StrongSquirrel/discord-notifier-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:StrongSquirrel/discord-notifier-plugin.git</developerConnection>
+    <url>https://github.com/StrongSquirrel/discord-notifier-plugin</url>
     <tag>HEAD</tag>
   </scm>
 
@@ -48,6 +48,11 @@
       <id>KocproZ</id>
       <name>Kacper Stasiuk</name>
       <email>kocproz@protonmail.com</email>
+    </developer>
+    <developer>
+      <id>kotchuprik</id>
+      <name>Constantine Chuprik</name>
+      <email>constantinchuprik@gmail.com</email>
     </developer>
   </developers>
 
